@@ -1,0 +1,8 @@
+[functions.youtube-search]
+verify_jwt = false
+
+[functions.spotify-import]
+verify_jwt = false
+
+[functions.youtube-download]
+verify_jwt = false
